@@ -1,13 +1,3 @@
----
-permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 About me
 ======
 I am currently pursuing a doctoral degree at [Northeastern University](https://www.neu.edu.cn/), and I am in my second year of doctoral studies. My research field focuses on the application of optimization based and learning based methods in the field of robotics, especially in robot motion planning, motion control, and robot scheduling.
