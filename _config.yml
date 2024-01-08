@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Donglin Chen/Personal Homepage"
+title                    : "Donglin Chen's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Donglin Chen"
 description              : &description "a second year doctoral student"
