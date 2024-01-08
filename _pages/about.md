@@ -13,7 +13,7 @@ Educational experience
 =======
 2014 - 2018&emsp;undergraduate degree&emsp;[Dalian Maritime University](https://www.dlmu.edu.cn/)      
 2019 - 2022&emsp;master degree&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;[Northeastern University](https://www.neu.edu.cn/)      
-2022 - &emsp;&emsp;&emsp;PhD &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;[Northeastern University](https://www.neu.edu.cn/)
+2022 - &nbsp;&emsp;&emsp;&emsp;PhD &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;[Northeastern University](https://www.neu.edu.cn/)
 
 Publications
 =======
