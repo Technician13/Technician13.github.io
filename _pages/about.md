@@ -11,9 +11,11 @@ I am currently pursuing a PhD at [Northeastern University](https://www.neu.edu.c
 
 Education
 =======
-2014 - 2018&emsp;undergraduate degree&emsp;[Dalian Maritime University](https://www.dlmu.edu.cn/)      
-2019 - 2022&emsp;master degree&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;[Northeastern University](https://www.neu.edu.cn/)      
-2022 - &nbsp;&emsp;&emsp;&emsp;PhD &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;[Northeastern University](https://www.neu.edu.cn/)
+| Year | Degree | Institution |
+|-----|-----|-----|
+| 2014 – 2018 | B.Eng. | [Dalian Maritime University](https://www.dlmu.edu.cn/) |
+| 2019 – 2022 | M.Eng. | [Northeastern University](https://www.neu.edu.cn/) |
+| 2022 – Present | PhD | [Northeastern University](https://www.neu.edu.cn/) |
 
 Publications
 =======
