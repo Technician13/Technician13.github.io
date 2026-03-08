@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Donglin Chen"
   avatar           : "profile.png"
-  bio              : "I am currently pursuing a PhD at Tohoku University and am now in the fourth year of my doctoral program. My research focuses on the application of optimization methods in robotics, including robot motion planning and control, robot scheduling and task allocation, and vision-language-action (VLA) based robotic mobile manipulation."
+  bio              : #""
   location         : #"Location"
   employer         : #
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
