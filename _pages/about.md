@@ -15,10 +15,19 @@ Education
 - **MEng**, Northeastern University, 2019 – 2022  
 - **BEng**, Dalian Maritime University, 2014 – 2018
 
-Publications
+Publications & Awards
 =======
+**Second Prize**      
+Robo-Equestrian Competition, ROBOCON 2020 (19st China University Robot Competition)  
+
+**Third Prize**    
+Robo-Equestrian Competition, ROBOCON 2022 (21st China University Robot Competition)  
+
 [**ISAS 2023**   
 Dynamic Locomotion of Quadruped Robot in Sloping Terrain](https://ieeexplore.ieee.org/document/10164446)     
 
 [**CSTIC 2023**   
 AcArm: A Novel Semiconductor Wafer Handling Robot](https://ieeexplore.ieee.org/document/10219280)    
+
+**GRC 2026**   
+Applications and Functional Extensions of Vision–Language–Navigation Models in Indoor Environments  
