@@ -11,6 +11,7 @@ I am currently pursuing a PhD at [Northeastern University](https://www.neu.edu.c
 
 Education
 =======
+- **Visiting Scholar**, Universität Hamburg, 2025 – Present      
 - **PhD**, Northeastern University, 2022 – Present  
 - **MEng**, Northeastern University, 2019 – 2022  
 - **BEng**, Dalian Maritime University, 2014 – 2018
