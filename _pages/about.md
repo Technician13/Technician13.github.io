@@ -24,11 +24,17 @@ Robo-Equestrian Competition, ROBOCON 2020 (19st China University Robot Competiti
 **Third Prize**    
 Robo-Equestrian Competition, ROBOCON 2022 (21st China University Robot Competition)  
 
-[**ISAS 2023**   
-Dynamic Locomotion of Quadruped Robot in Sloping Terrain](https://ieeexplore.ieee.org/document/10164446)     
+[**ISAS2023**, Nanjing, China,    
+Dynamic Locomotion of Quadruped Robot in Sloping Terrain](https://ieeexplore.ieee.org/document/10164446)   
 
-[**CSTIC 2023**   
+
+[**CSTIC2023**, Shanghai, China,       
 AcArm: A Novel Semiconductor Wafer Handling Robot](https://ieeexplore.ieee.org/document/10219280)    
 
-**GRC 2026**   
-Applications and Functional Extensions of Vision–Language–Navigation Models in Indoor Environments  
+**GRC2026**, Köln, Germany,       
+Applications and Functional Extensions of     
+Vision–Language–Navigation Models in Indoor Environments  
+
+**IFORS2026**, Vienna, Austria,         
+Memory-Based Foothold Planning and Optimization for     
+Quadruped Robots in Discontinuous Terrains      
